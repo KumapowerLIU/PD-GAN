@@ -7,7 +7,7 @@
 ###  [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_PD-GAN_Probabilistic_Diverse_GAN_for_Image_Inpainting_CVPR_2021_paper.pdf) | [BibTex](#jump2)
 
 PD-GAN: Probabilistic Diverse GAN for Image Inpainting
-[Hongyu Liu](#jump1),  [Ziyu Wan](#jump1), [Wei Huang](#jump1), [Yibing Song](https://ybsong00.github.io/), [Xintong Han](#https://xthan.github.io/) and [JIng Liao](https://liaojing.github.io/html/).<br>
+[Hongyu Liu](#jump1),  [Ziyu Wan](https://scholar.google.com/citations?user=RfIHcSoAAAAJ&hl=en), [Wei Huang](#jump1), [Yibing Song](https://ybsong00.github.io/), [Xintong Han](https://xthan.github.io/) and [JIng Liao](https://liaojing.github.io/html/).<br>
 In CVPR 2021
 
 

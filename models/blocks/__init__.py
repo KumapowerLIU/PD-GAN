@@ -1,0 +1,2 @@
+def SPDNorm():
+    return None

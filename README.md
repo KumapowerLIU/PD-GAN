@@ -64,7 +64,7 @@ To log training, use `--./logs` for Tensorboard. The logs are stored at `logs/[n
 
 
 ## Pre-trained weights and test model
-There are three folders to present a pre-trained model for three datasets, respectively. Currently, we only upload the pre-trained model of [Partical Conv](https://openaccess.thecvf.com/content_ECCV_2018/papers/Guilin_Liu_Image_Inpainting_for_ECCV_2018_paper.pdf). in each folder.
+There are [three folders](https://drive.google.com/drive/folders/1o9reT5_lFzGKBsrLlvck545nNInIAlPe?usp=sharing) to present a pre-trained model for three datasets, respectively. Currently, we only upload the pre-trained model of [Partical Conv](https://openaccess.thecvf.com/content_ECCV_2018/papers/Guilin_Liu_Image_Inpainting_for_ECCV_2018_paper.pdf). in each folder.
 We implement the Partial Conv by ourselves.
 ## TODO
 - [ ] upload the test code
